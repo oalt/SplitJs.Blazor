@@ -22,6 +22,8 @@
 		<IsPackable>true</IsPackable>
 
 		<OutputType>Library</OutputType>
+
+		<PackageId>MDD4All.$(AssemblyName)</PackageId>
 	</PropertyGroup>
 
 	<ItemGroup>
