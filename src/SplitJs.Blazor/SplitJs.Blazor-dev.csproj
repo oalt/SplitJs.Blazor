@@ -23,6 +23,8 @@
 
 		<OutputType>Library</OutputType>
 
+		<RootNamespace>SplitJs.Blazor</RootNamespace>
+
 		
 	</PropertyGroup>
 
